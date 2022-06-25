@@ -186,6 +186,7 @@ clarus-default-rt (internet access is available even on private subnets)
       - save routes    
       
 STEP 6: enable Auto-Assign Public IPv4 Address for public subnets
+(AWS otomatik olarak bir tane public IP atamasi icin tüm public subnetlere..)
 
 - Go to the Subnets from left hand menu
 
