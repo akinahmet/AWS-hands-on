@@ -214,6 +214,9 @@ Get Notification   : None
 
 click create and show that the status is unhealthy approximately after 90 seconds the instance healthcheck will turned into the "healthy" from "unhealthy"
 ```
+
+- We can also create an alarm (click yes, enter a name and e-mail address, confirm e-mail)
+
 ### Step 2: Create A record for  "N. Virginia_1" instance IP - Primary record
 
 - Got to the hosted zone and select the public hosted zone of our domain name
